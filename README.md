@@ -7,7 +7,7 @@ This project is a drawing app that allows you to draw on a virtual drawing board
 
 
 #### Demo: 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/XDImBWHTQbY).
 
 
 
